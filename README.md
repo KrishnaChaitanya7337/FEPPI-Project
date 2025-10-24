@@ -29,3 +29,4 @@ FEPPI_Project/
 2. Open `Excel/` files to review data analysis and KPIs.  
 3. Open `PowerBI/` folder files using **Power BI Desktop** to view dashboards.  
 4. Reference `Images/` for visual aids or screenshots.
+5. Attached the screenshot of JIRA for task management.
